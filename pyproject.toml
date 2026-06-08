@@ -2,7 +2,7 @@
 name = "greet-poetry"
 version = "0.1.0.dev"
 description = "This is a Python package template using Poetry."
-authors = [{name="Quynh Nguyen", email="<seriquynh@gmail.com>"}]
+authors = [{name="Oliver Quynh", email="<contact@oliverquynh.com>"}]
 readme = "README.md"
 license = "MIT"
 requires-python = ">=3.11,<4.0"

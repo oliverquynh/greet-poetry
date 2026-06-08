@@ -1,6 +1,6 @@
 # Greet Poetry
 
-<a href="https://github.com/seriquynh/greet-poetry/actions"><img src="https://github.com/seriquynh/greet-poetry/workflows/test/badge.svg" alt="CI Status"></a>
+<a href="https://github.com/oliverquynh/greet-poetry/actions"><img src="https://github.com/oliverquynh/greet-poetry/workflows/test/badge.svg" alt="CI Status"></a>
 <a href="https://pypi.org/project/greet-poetry"><img src="https://img.shields.io/pypi/dm/greet-poetry" alt="Monthly Downloads"></a>
 <a href="https://pypi.org/project/greet-poetry"><img src="https://img.shields.io/pypi/v/greet-poetry" alt="Latest Stable Version"></a>
 <a href="https://pypi.org/project/greet-poetry"><img src="https://img.shields.io/pypi/l/greet-poetry" alt="The MIT License"></a>
