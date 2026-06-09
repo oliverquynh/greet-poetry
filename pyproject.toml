@@ -7,6 +7,7 @@ readme = "README.md"
 license = "MIT"
 requires-python = ">=3.11,<4.0"
 dependencies = [
+    "poetry>=2.4.1",
 ]
 
 [project.scripts]
@@ -20,8 +21,8 @@ build-backend = "poetry.core.masonry.api"
 packages = [{include = "greet", from = "src"}]
 
 [tool.poetry.group.dev.dependencies]
-pytest = "^8.3.5"
-black = "^25.1.0"
+pytest = "^9.0.3"
+black = "^26.3.1"
 isort = "^6.0.1"
 mypy = "^1.15.0"
 autoflake = "^2.3.1"
